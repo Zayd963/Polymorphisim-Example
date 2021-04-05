@@ -1,0 +1,5 @@
+﻿  Box.cpp
+  Source.cpp
+C:\Users\zaydq\source\repos\ProjectClasses\ProjectClasses\Source.cpp(25,10): warning C4101: 'shape': unreferenced local variable
+  Generating Code...
+  ProjectClasses.vcxproj -> C:\Users\zaydq\source\repos\ProjectClasses\Debug\ProjectClasses.exe
